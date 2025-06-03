@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Cypress output
+cypress/screenshots/
+cypress/videos/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Env files (if any)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor folders
+.vscode/
+.idea/
+
+# Optional: coverage reports (إذا استخدمت تغطية الاختبارات)
+coverage/
+
+# Build artifacts (لو استخدمت أي بناء)
+dist/
+build/
+
+# Cypress cache
+.cypress/
+
+# GitHub Desktop junk
+*.orig
+
+# Optional: ignore package-lock or yarn.lock if ما بدكهم
+# package-lock.json
+# yarn.lock
