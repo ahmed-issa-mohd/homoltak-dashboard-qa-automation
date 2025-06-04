@@ -1,0 +1,7 @@
+ضفت مناطق محافظات عمان بس  
+مفكر اقللهم 
+وبدي اكمل باقي المناطق لباقي المحافظات 
+و اعمل بش على ريبو المناطق 
+
+
+npx cypress run --headed --browser chrome --spec "cypress/e2e/cargos/cargo_add.cy.js"
