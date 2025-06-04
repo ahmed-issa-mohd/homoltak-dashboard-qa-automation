@@ -1,0 +1,384 @@
+[
+    {
+        "name_en": "Hakama",
+        "name_ar": "حكما",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Howwara",
+        "name_ar": "حوارة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Malaab",
+        "name_ar": "حي الملعب",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Zahraa",
+        "name_ar": "حي الزهراء",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Bushra",
+        "name_ar": "بشرى",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Al-Lawazem",
+        "name_ar": "اللوازم",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Jami’a",
+        "name_ar": "حي الجامعة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Amman New Complex",
+        "name_ar": "مجمع عمان الجديد",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Hanina",
+        "name_ar": "حي حنينا",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Jame’",
+        "name_ar": "حي الجامع",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Bayadah",
+        "name_ar": "حي البياضة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Abrar",
+        "name_ar": "حي الابرار",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Hikma",
+        "name_ar": "حي الحكمة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Kufr Yuba",
+        "name_ar": "كفر يوبا",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Jordan University of Science and Technology",
+        "name_ar": "جامعة العلوم والتكنولوجيا",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Al-Motla",
+        "name_ar": "المطلع",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Sinaa",
+        "name_ar": "حي الصناعة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Al-Nuzha",
+        "name_ar": "النزهة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Atibaa",
+        "name_ar": "حي الاطباء",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Al-Husn",
+        "name_ar": "الحصن",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Sahl Al-Akhdar",
+        "name_ar": "حي السهل الأخضر",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Andalus",
+        "name_ar": "حي الاندلس",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Nasr",
+        "name_ar": "حي النصر",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Al-Rawdah",
+        "name_ar": "الروضة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Hirafin Al-Sharqi",
+        "name_ar": "حي الحرفين الشرقي",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Manarah",
+        "name_ar": "حي المنارة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Nazif",
+        "name_ar": "حي النظيف",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Sa’adah",
+        "name_ar": "حي السعادة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Ashrafiyya",
+        "name_ar": "حي الاشرفية",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "King Abdullah II Gardens",
+        "name_ar": "حدائق الملك عبدالله الثاني",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Sawanyah",
+        "name_ar": "حي الصوانية",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Al-Balad",
+        "name_ar": "البلد",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Al-Rahbat Al-Wardiyah",
+        "name_ar": "الراهبات الوردية",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Awda",
+        "name_ar": "حي العودة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Salam",
+        "name_ar": "حي السلام",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Afraah",
+        "name_ar": "حي الافراح",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Sihha",
+        "name_ar": "حي الصحة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Yarmouk",
+        "name_ar": "حي اليرموك",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Baq’a",
+        "name_ar": "حي البقعة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Jadeed",
+        "name_ar": "حي جديد",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Basateen",
+        "name_ar": "حي البساتين",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Fadilah",
+        "name_ar": "حي الفضيلة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Iman",
+        "name_ar": "حي الايمان",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Karama",
+        "name_ar": "حي الكرامة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Wurood",
+        "name_ar": "حي الورود",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Mrewa",
+        "name_ar": "مرو",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Sammu'",
+        "name_ar": "سمّوع",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Al-Taybeh",
+        "name_ar": "الطيبة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Mandah",
+        "name_ar": "مندح",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Beit Ras",
+        "name_ar": "بيت راس",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Samma",
+        "name_ar": "صما",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Saidour",
+        "name_ar": "صيدور",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Sal",
+        "name_ar": "سال",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Al-Mazar Al-Shamali",
+        "name_ar": "المزار الشمالية",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Habka",
+        "name_ar": "حبكا",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Juhfiyah",
+        "name_ar": "جحفية",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Ham",
+        "name_ar": "هام",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Beit Yafa",
+        "name_ar": "بيت يافا",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Al-'Al",
+        "name_ar": "العال",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Kharja",
+        "name_ar": "خرجا",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Al-Shajarah",
+        "name_ar": "الشجرة",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Hay Al-Midan",
+        "name_ar": "حي الميدان",
+        "governorate": "Irbid"
+    },
+    {
+        "name_en": "Zuhour",
+        "name_ar": "زهور",
+        "governorate": "Irbid"
+    },
+    [
+        {
+            "name_en": "Soum",
+            "name_ar": "سوم",
+            "governorate": "Irbid"
+        },
+        {
+            "name_en": "Natfah",
+            "name_ar": "ناطفة",
+            "governorate": "Irbid"
+        },
+        {
+            "name_en": "Idoun",
+            "name_ar": "ايدون",
+            "governorate": "Irbid"
+        },
+        {
+            "name_en": "Bani Obeid",
+            "name_ar": "بني عبيد",
+            "governorate": "Irbid"
+        },
+        {
+            "name_en": "Kufr Jayiz",
+            "name_ar": "كفر جايز",
+            "governorate": "Irbid"
+        },
+        {
+            "name_en": "Al-Sareeh",
+            "name_ar": "الصريح",
+            "governorate": "Irbid"
+        },
+        {
+            "name_en": "Hay Al-Marj",
+            "name_ar": "حي المرج",
+            "governorate": "Irbid"
+        },
+        {
+            "name_en": "Hay Al-Hashimi",
+            "name_ar": "حي الهاشمي",
+            "governorate": "Irbid"
+        },
+        {
+            "name_en": "Kufr Asad",
+            "name_ar": "كفر أسد",
+            "governorate": "Irbid"
+        },
+        {
+            "name_en": "Dawqara",
+            "name_ar": "دوقره",
+            "governorate": "Irbid"
+        },
+        {
+            "name_en": "Qumeim Town",
+            "name_ar": "بلدة قميم",
+            "governorate": "Irbid"
+        },
+        {
+            "name_en": "Deir Youssef",
+            "name_ar": "دير يوسف",
+            "governorate": "Irbid"
+        },
+        {
+            "name_en": "Deir Al-Sa’neh",
+            "name_ar": "دير السعنة",
+            "governorate": "Irbid"
+        }
+    ]
+]

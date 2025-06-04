@@ -1,20 +1,32 @@
-describe('Add New Area', () => {
-    it('should add a new area successfully', () => {
-        cy.login(); // تأكد إن عندك login command
+describe('إضافة جميع المناطق باستخدام fixture موحد', () => {
+    before(() => {
+        cy.login(); // تسجيل الدخول مرة واحدة
+    });
 
-        cy.visit('/areas/create');
+    it('ينشئ جميع مناطق المحافظات من ملف واحد', () => {
+        cy.fixture('areas').then((governorates) => {
+            governorates.forEach((gov) => {
+                gov.areas.forEach((area) => {
+                    cy.visit('/portal/shahwan/management-homoltak/new-admin/areas');
+                    cy.get('a.btn-new').click();
+                    cy.url().should('include', '/areas/create');
 
-        cy.get('#name_en').type('Example Area');
-        cy.get('#name_ar').type('منطقة تجريبية');
-        cy.get('#zip_code').type('12345');
-        cy.get('#governorate_id').select('Amman'); // أو 'عمّان' حسب ما هو ظاهر في الـ select
-        cy.get('#serial').type('1');
-        cy.get('#status').select('IS_ACTIVE');
+                    cy.get('input[name="name_ar"]').clear().type(area.name_ar);
+                    cy.get('input[name="name_en"]').clear().type(area.name_en);
 
-        cy.get('button[type="submit"]').click();
+                    cy.get('#select2-governorate_id-container').click();
+                    cy.get('.select2-results__option').each(($el) => {
+                        const text = $el.text().trim();
+                        if (text === gov.governorate) {
+                            cy.wrap($el).click();
+                            return false;
+                        }
+                    });
 
-        cy.url().should('include', '/areas');
-        cy.contains('td', 'Example Area').should('exist');
-        cy.contains('td', 'منطقة تجريبية').should('exist');
+                    cy.contains('button', 'Submit').click();
+                    cy.url().should('include', '/areas');
+                });
+            });
+        });
     });
 });
