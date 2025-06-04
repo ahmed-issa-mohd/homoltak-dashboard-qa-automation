@@ -1,0 +1,28 @@
+[
+    {
+        "name_en": "Furniture",
+        "name_ar": "أثاث",
+        "description_en": "Household furniture and items",
+        "description_ar": "أثاث وأغراض منزلية",
+        "status": 1,
+        "serial": 1,
+        "categories": [
+            1,
+            2
+        ],
+        "image": "furniture.png"
+    },
+    {
+        "name_en": "Vegetables",
+        "name_ar": "خضار",
+        "description_en": "Fresh vegetables",
+        "description_ar": "خضروات طازجة",
+        "status": 1,
+        "serial": 2,
+        "categories": [
+            1,
+            6
+        ],
+        "image": "vegetables.png"
+    }
+]
