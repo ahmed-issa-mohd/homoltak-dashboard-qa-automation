@@ -1,0 +1,124 @@
+[
+    {
+        "name_en": "Medicine & Medical Equipment",
+        "name_ar": "أدوية و معدات طبية",
+        "description_en": "Transport of pharmaceuticals and medical equipment",
+        "description_ar": "نقل الأدوية والمعدات الطبية",
+        "status": "IS_ACTIVE",
+        "category": [
+            "Close Transfer",
+            "Cold Transfer Vehicle"
+        ],
+        "serial": "11",
+        "image": "medicine_and_medical_equipment.png"
+    },
+    {
+        "name_en": "Furnitures",
+        "name_ar": "الأثاث",
+        "description_en": "Transport of household or office furniture",
+        "description_ar": "نقل الأثاث المنزلي أو المكتبي",
+        "status": "1",
+        "category": [
+            "Open Transfer",
+            "Close Transfer"
+        ],
+        "serial": "1",
+        "image": "furnitures.png"
+    },
+    {
+        "name_en": "Cosmetics",
+        "name_ar": "مواد التجميل",
+        "description_en": "Transport of cosmetic and beauty products",
+        "description_ar": "نقل مستحضرات التجميل والعناية بالبشرة",
+        "status": "1",
+        "category": "Close Transfer",
+        "serial": "2",
+        "image": "cosmetics.png"
+    },
+    {
+        "name_en": "Electrical equipment",
+        "name_ar": "أجهزة كهربائية",
+        "description_en": "Transport of electrical appliances and tools",
+        "description_ar": "نقل الأجهزة الكهربائية والأدوات",
+        "status": "1",
+        "category": "Open Transfer",
+        "serial": "3",
+        "image": "electrical_equipment.png"
+    },
+    {
+        "name_en": "Feed",
+        "name_ar": "الأعلاف",
+        "description_en": "Transport of animal feed",
+        "description_ar": "نقل الأعلاف الحيوانية",
+        "status": "1",
+        "category": "Open Transfer",
+        "serial": "4",
+        "image": "feed.png"
+    },
+    {
+        "name_en": "Scrap",
+        "name_ar": "خردة وسكراب",
+        "description_en": "Transport of scrap and recyclable materials",
+        "description_ar": "نقل الخردة والمواد القابلة لإعادة التدوير",
+        "status": "1",
+        "category": "Open Transfer",
+        "serial": "5",
+        "image": "scrap.png"
+    },
+    {
+        "name_en": "Liquid",
+        "name_ar": "السوائل",
+        "description_en": "Transport of liquid materials like water and fuel",
+        "description_ar": "نقل السوائل مثل الماء والوقود",
+        "status": "1",
+        "category": "Liquid Transfer",
+        "serial": "6",
+        "image": "liquid.png"
+    },
+    {
+        "name_en": "Others",
+        "name_ar": "أخرى",
+        "description_en": "Transport of other types of cargo",
+        "description_ar": "نقل أنواع أخرى من الحمولة",
+        "status": "1",
+        "category": [
+            "Open Transfer",
+            "Close Transfer"
+        ],
+        "serial": "7",
+        "image": "others.png"
+    },
+    {
+        "name_en": "Foodstuffs",
+        "name_ar": "مواد غذائية",
+        "description_en": "Transport of food products and groceries",
+        "description_ar": "نقل المواد الغذائية والبقالة",
+        "status": "1",
+        "category": "Close Transfer",
+        "serial": "8",
+        "image": "foodstuffs.png"
+    },
+    {
+        "name_en": "Construction equipment and supplies",
+        "name_ar": "معدات و لوازم البناء",
+        "description_en": "Transport of construction tools and supplies",
+        "description_ar": "نقل معدات ولوازم البناء",
+        "status": "1",
+        "category": "Open Transfer",
+        "serial": "9",
+        "image": "construction_equipment_and_supplies.png"
+    },
+    {
+        "name_en": "Fruits and Vegetables",
+        "name_ar": "الخضراوات والفواكه",
+        "description_en": "Transport of fresh fruits and vegetables",
+        "description_ar": "نقل الخضروات والفواكه الطازجة",
+        "status": "1",
+        "category": [
+            "Open Transfer",
+            "Close Transfer"
+        ],
+        "serial": "10",
+        "image": "fruits_and_vegetables.png"
+    }
+]
