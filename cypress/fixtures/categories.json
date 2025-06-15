@@ -1,0 +1,26 @@
+[
+    {
+        "name_en": "Open Transfer",
+        "name_ar": "النقل بمركبة مفتوحة",
+        "exceptional": "NOT_Exceptional",
+        "status": "IS_ACTIVE",
+        "serial": "1",
+        "image": "Open_Transfer.png"
+    },
+    {
+        "name_en": "Close Transfer",
+        "name_ar": "النقل بمركبة مغلقة",
+        "exceptional": "IS_Exceptional",
+        "status": "IS_ACTIVE",
+        "serial": "2",
+        "image": "Close_Transfer.png"
+    },
+    {
+        "name_en": "towing & Lifting",
+        "name_ar": "ونشات ورفع",
+        "exceptional": "IS_Exceptional",
+        "status": "IS_ACTIVE",
+        "serial": "3",
+        "image": "towing_Lifting.png"
+    }
+]

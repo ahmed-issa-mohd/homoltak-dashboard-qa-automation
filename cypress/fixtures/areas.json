@@ -1,0 +1,176 @@
+[
+    {
+        "governorate": "Amman",
+        "areas": [
+            {
+                "name_ar": "تلاع العلي",
+                "name_en": "Tlaa Al Ali"
+            },
+            {
+                "name_ar": "الشميساني",
+                "name_en": "Shmeisani"
+            },
+            {
+                "name_ar": "العبدلي",
+                "name_en": "Abdali"
+            },
+            {
+                "name_ar": "الصويفية",
+                "name_en": "Sweifieh"
+            },
+            {
+                "name_ar": "جبل الحسين",
+                "name_en": "Jabal Al Hussein"
+            },
+            {
+                "name_ar": "مرج الحمام",
+                "name_en": "Marj Al Hamam"
+            }
+        ]
+    },
+    {
+        "governorate": "Zarqa",
+        "areas": [
+            {
+                "name_ar": "وسط البلد",
+                "name_en": "Downtown"
+            },
+            {
+                "name_ar": "حي رمزي",
+                "name_en": "Ramzi District"
+            },
+            {
+                "name_ar": "حي الزواهرة",
+                "name_en": "Zawahreh District"
+            },
+            {
+                "name_ar": "حي معصوم",
+                "name_en": "Ma’soum District"
+            },
+            {
+                "name_ar": "حي الحسين",
+                "name_en": "Al Hussein"
+            },
+            {
+                "name_ar": "حي الجبل الأبيض",
+                "name_en": "White Mountain"
+            }
+        ]
+    },
+    {
+        "governorate": "Irbid",
+        "areas": [
+            {
+                "name_ar": "دوار الجامعة",
+                "name_en": "University Circle"
+            },
+            {
+                "name_ar": "شارع الهاشمي",
+                "name_en": "Hashimi Street"
+            },
+            {
+                "name_ar": "الحصن",
+                "name_en": "Al Husn"
+            },
+            {
+                "name_ar": "ارحابا",
+                "name_en": "Rahaba"
+            },
+            {
+                "name_ar": "بشرى",
+                "name_en": "Bushra"
+            },
+            {
+                "name_ar": "سحم الكفارات",
+                "name_en": "Saham Al-Kafarat"
+            }
+        ]
+    },
+    {
+        "governorate": "Aqaba",
+        "areas": [
+            {
+                "name_ar": "الوسط التجاري",
+                "name_en": "Commercial Center"
+            },
+            {
+                "name_ar": "الشامية",
+                "name_en": "Shamiya"
+            },
+            {
+                "name_ar": "الحميمة",
+                "name_en": "Humeima"
+            },
+            {
+                "name_ar": "الياسمين",
+                "name_en": "Yasmin"
+            },
+            {
+                "name_ar": "الخزان",
+                "name_en": "Al Khazan"
+            },
+            {
+                "name_ar": "الثنية",
+                "name_en": "Thaniya"
+            }
+        ]
+    },
+    {
+        "governorate": "Madaba",
+        "areas": [
+            {
+                "name_ar": "وسط المدينة",
+                "name_en": "City Center"
+            },
+            {
+                "name_ar": "حي المهاجرين",
+                "name_en": "Muhajirin District"
+            },
+            {
+                "name_ar": "حي الإسكان",
+                "name_en": "Housing Area"
+            },
+            {
+                "name_ar": "حي السلام",
+                "name_en": "Salam District"
+            },
+            {
+                "name_ar": "ذيبان",
+                "name_en": "Dhiban"
+            },
+            {
+                "name_ar": "ماعين",
+                "name_en": "Ma’in"
+            }
+        ]
+    },
+    {
+        "governorate": "Karak",
+        "areas": [
+            {
+                "name_ar": "المرج",
+                "name_en": "Marj"
+            },
+            {
+                "name_ar": "الغور",
+                "name_en": "Ghor"
+            },
+            {
+                "name_ar": "المشيرفة",
+                "name_en": "Al Mushairefa"
+            },
+            {
+                "name_ar": "الخالدية",
+                "name_en": "Khalidiyah"
+            },
+            {
+                "name_ar": "ربة",
+                "name_en": "Rabba"
+            },
+            {
+                "name_ar": "عي",
+                "name_en": "Ai"
+            }
+        ]
+    }
+]

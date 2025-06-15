@@ -1,0 +1,922 @@
+[
+  {
+    "name_en": "Al-Ma’adi",
+    "name_ar": "المعادي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Bunayyat Al-Janoubi",
+    "name_ar": "البنيات الجنوبي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Sahaba",
+    "name_ar": "الصحابة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Um Al-Summaq",
+    "name_ar": "ام السماق",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Hay Al-Rahmaniya",
+    "name_ar": "حي الرحمانية",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Khalda",
+    "name_ar": "خلدا",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Sina’ah",
+    "name_ar": "الصناعة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Rawabi",
+    "name_ar": "الروابي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Hashmi Al-Shamali",
+    "name_ar": "الهاشمي الشمالي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Hashmi Al-Janoubi",
+    "name_ar": "الهاشمي الجنوبي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Fuheis",
+    "name_ar": "فحيص",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Dabouq",
+    "name_ar": "دابوق",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Shmeisani",
+    "name_ar": "شميساني",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Amir Hassan",
+    "name_ar": "الامير حسن",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Wasat Al-Balad (Downtown)",
+    "name_ar": "وسط البلد",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Hay Al-Khalideen",
+    "name_ar": "حي الخالدين",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Yasmeen",
+    "name_ar": "الياسمين",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Ras Al-Ain",
+    "name_ar": "راس العين",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Marj Al-Hamam",
+    "name_ar": "مرج الحمام",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Jabal Al-Weibdeh",
+    "name_ar": "جبل الويبدة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Salahiyeen",
+    "name_ar": "الصالحيين",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Abu Alanda",
+    "name_ar": "ابو علندا",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Sweifieh",
+    "name_ar": "الصويفية",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Jandweel",
+    "name_ar": "الجندويل",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Abdali",
+    "name_ar": "العبدلي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Kamaliyah",
+    "name_ar": "الكمالية",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Maghbah Al-Gharbi",
+    "name_ar": "المغبة الغربي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Rabieh Al-Salam",
+    "name_ar": "الرابية-السلام",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Hay Al-Madina Al-Tibbiya",
+    "name_ar": "حي المدينه الطبيه",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Kursi",
+    "name_ar": "الكرسي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Tabarbour",
+    "name_ar": "طبربور",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Queen Alia City (Madina Al-Hussein Lilshabab)",
+    "name_ar": "مدينة الحسين للشباب",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Ashrafiyya",
+    "name_ar": "الاشرفية",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Jarn",
+    "name_ar": "الجرن",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Jabal Al-Nuzha",
+    "name_ar": "جبل النزهة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Sweileh - Al-Fadila",
+    "name_ar": "صويلح - الفضيلة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Dahiat Al-Aqsa",
+    "name_ar": "ضاحية الاقصى",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Baraka",
+    "name_ar": "البركة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Jabal Al-Hussein",
+    "name_ar": "جبل الحسين",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Muqabalin",
+    "name_ar": "المقابلين",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Rawnaq",
+    "name_ar": "الرونق",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Sahl",
+    "name_ar": "السهل",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Jabal Amman",
+    "name_ar": "جبل عمان",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Qweismeh",
+    "name_ar": "القويسمة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Zuhur",
+    "name_ar": "الزهور",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Bayader",
+    "name_ar": "البيادر",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Diyar",
+    "name_ar": "الديار",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Raghadan",
+    "name_ar": "رغدان",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Dahiat Al-Rasheed",
+    "name_ar": "ضاحية الرشيد",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Majd",
+    "name_ar": "المجد",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Mahabba - Al-Jubaiha",
+    "name_ar": "المحبة - الجبيهه",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Furqan",
+    "name_ar": "الفرقان",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Shaheed Al-Janoubi",
+    "name_ar": "الشهيد الجنوبي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Karama",
+    "name_ar": "الكرامة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Hay Al-Matar - Marka",
+    "name_ar": "حي المطار - ماركا",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Damina",
+    "name_ar": "الدمينه",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Uyoun Al-Dheeb",
+    "name_ar": "عيون الذيب",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Ibn Awf - Al-Jubaiha",
+    "name_ar": "ابن عوف - الجبيهه",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Abu Al-Qaram",
+    "name_ar": "ابو القرام",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Jabal Al-Joufeh",
+    "name_ar": "جبل الجوفة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Salhiya Al-Abed",
+    "name_ar": "صالحية العابد",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Mansour",
+    "name_ar": "المنصور",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Rabeeh",
+    "name_ar": "الربيع",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Baladiya - Al-Jubaiha",
+    "name_ar": "البلدية - الجبيهه",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Amal",
+    "name_ar": "الامل",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Zaytouna - Al-Jubaiha",
+    "name_ar": "الزيتونه - الجبيهه",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Rajm Al-Shami",
+    "name_ar": "رجم الشامي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Ghaba",
+    "name_ar": "الغابة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Um Al-Aswad",
+    "name_ar": "ام الاسود",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Muruj",
+    "name_ar": "المروج",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Rayan - Al-Jubaiha",
+    "name_ar": "الريان - الجبيهة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Jabal Al-Nasr",
+    "name_ar": "جبل النصر",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Koum Al-Sharqi",
+    "name_ar": "الكوم الشرقي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Koum Al-Gharbi",
+    "name_ar": "الكوم الغربي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Islamic College - Al-Jubaiha",
+    "name_ar": "الكلية الاسلامية - الجبيهه",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Safa",
+    "name_ar": "الصفا",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Hamza",
+    "name_ar": "حمزة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Wafa",
+    "name_ar": "الوفاء",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Manara",
+    "name_ar": "المنارة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Natheef",
+    "name_ar": "النظيف",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Rabwa",
+    "name_ar": "الربوة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Taqwa",
+    "name_ar": "تقوى",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Laban",
+    "name_ar": "اللبن",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Jabal Al-Taj",
+    "name_ar": "جبل التاج",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Rujoom",
+    "name_ar": "الرجوم",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Um Uthaina Al-Sharqi",
+    "name_ar": "ام اذينه الشرقي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Amira Alia",
+    "name_ar": "الاميرة عالية",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Dheiba Al-Sharqiya",
+    "name_ar": "ذهيبة الشرقية",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Sweiseh",
+    "name_ar": "السويسة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Muwahhideen",
+    "name_ar": "الموحدين",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Amir Hamza",
+    "name_ar": "الامير حمزة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Yajouz",
+    "name_ar": "ياجوز",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Bilal",
+    "name_ar": "بلال",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Zahraa",
+    "name_ar": "الزهراء",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Dhahir",
+    "name_ar": "الظهير",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Dhira’",
+    "name_ar": "الذراع",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Taneeb",
+    "name_ar": "الطنيب",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Hamraniyah",
+    "name_ar": "الحمرانيه",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Urooba",
+    "name_ar": "العروبة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Nahariya",
+    "name_ar": "النهارية",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Tila’ Al-Sharqi",
+    "name_ar": "التلاع الشرقي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Ghoroos",
+    "name_ar": "الغروس",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Um Al-Hiran",
+    "name_ar": "ام الحيران",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Hilal",
+    "name_ar": "الهلال",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Akhdar",
+    "name_ar": "الاخضر",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Andalus",
+    "name_ar": "الاندلس",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Adliyah",
+    "name_ar": "العدلية",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Hittin",
+    "name_ar": "حطين",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Juwaidah",
+    "name_ar": "الجويدة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Raqeem",
+    "name_ar": "الرقيم",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Tab Kraa",
+    "name_ar": "طاب كراع",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Awda",
+    "name_ar": "العودة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Hurriyah",
+    "name_ar": "الحرية",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Tila’ Al-Shamali",
+    "name_ar": "التلاع الشمالي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Maghbah Al-Sharqi",
+    "name_ar": "المغبة الشرقي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Bunayyat Al-Shamali",
+    "name_ar": "البنيات الشمالي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Kharibat Al-Souq",
+    "name_ar": "خريبة السوق",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Rabahiya",
+    "name_ar": "الرباحيه",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Ghamdan",
+    "name_ar": "غمدان",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Siddeeq",
+    "name_ar": "الصديق",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Qasabat",
+    "name_ar": "القصبات",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Jordan Museum Area",
+    "name_ar": "منطقة متحف الأردن",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Jordan Hospital Area",
+    "name_ar": "منطقة مستشفى الأردن",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Jawa Al-Shamali",
+    "name_ar": "جاوا الشمالي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Sanawbar",
+    "name_ar": "الصنوبر",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Wadi Al-Haddadah",
+    "name_ar": "وادي الحدادة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Um Shetirat",
+    "name_ar": "ام شطيرات",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Iman",
+    "name_ar": "الايمان",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Qattna",
+    "name_ar": "قطنه",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Um Al-Urooq",
+    "name_ar": "ام العروق",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Hasaniyah",
+    "name_ar": "الحسنيه",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Marj Al-Faras",
+    "name_ar": "مرج الفرس",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Hidaya",
+    "name_ar": "الهداية",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Qibaa",
+    "name_ar": "قباء",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Amir Hussein Bin Abdullah",
+    "name_ar": "الامير الحسين بن عبدالله",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Hay Hada’iq Al-Hussein",
+    "name_ar": "حي حدائق الحسين",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Dheiba",
+    "name_ar": "ذهيبة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Dheiba Al-Gharbiya",
+    "name_ar": "ذهيبة الغربية",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Yadouda",
+    "name_ar": "اليادودة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Abu Nsair - Al-Basala",
+    "name_ar": "ابو نصير - البساله",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Abu Nsair - Al-Dhiya’",
+    "name_ar": "ابو نصير - الضياء",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Abrar",
+    "name_ar": "الابرار",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Abu Nsair - Al-Amana",
+    "name_ar": "ابو نصير - الامانه",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Abu Nsair - Al-Sa’ada",
+    "name_ar": "ابو نصير - السعادة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Abu Nsair - Al-Farouq",
+    "name_ar": "ابو نصير - الفاروق",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Um Al-Kandam",
+    "name_ar": "ام الكندم",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Khazna",
+    "name_ar": "الخزنة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Shaheed Al-Shamali",
+    "name_ar": "الشهيد الشمالي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Mushairifa",
+    "name_ar": "المشيرفة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Salim",
+    "name_ar": "سالم",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Um Qasir",
+    "name_ar": "ام قصير",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "The Boulevard",
+    "name_ar": "البوليفارد",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Ain Al-Basha",
+    "name_ar": "عين الباشا",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Sahab",
+    "name_ar": "سحاب",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Ridwan",
+    "name_ar": "الرضوان",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Jubaiha",
+    "name_ar": "جبيهة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Hannu",
+    "name_ar": "الحنو",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Queen Alia International Airport Area",
+    "name_ar": "مطار الملكة علياء الدولي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Deir Al-Ghbar",
+    "name_ar": "دير الغبار",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Wadi Al-Surour",
+    "name_ar": "وادي السرور",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Um Ballana",
+    "name_ar": "ام بلانة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Sweileh - Maisaloon",
+    "name_ar": "صويلح - ميسلون",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Sweileh - Al-Furusiyya",
+    "name_ar": "صويلح - الفروسية",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Sweileh - Al-Bashaer",
+    "name_ar": "صويلح - البشائر",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Um Hujair",
+    "name_ar": "ام حجير",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Um Nowara",
+    "name_ar": "ام نوارة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Jawa Al-Janoubi",
+    "name_ar": "جاوا الجنوبي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Um Uthaina Al-Gharbi",
+    "name_ar": "ام اذينه الغربي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Ihsan",
+    "name_ar": "الاحسان",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Abu Sowaneh",
+    "name_ar": "ابو صوانه",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Jabal Al-Qala’a",
+    "name_ar": "جبل القلعة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Iraq Al-Amir",
+    "name_ar": "عراق الامير",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Zabda",
+    "name_ar": "زبدة",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Humr",
+    "name_ar": "الحمر",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Sweileh - Al-Hay Al-Sharqi",
+    "name_ar": "صويلح - الحي الشرقي",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Faisal",
+    "name_ar": "الفيصل",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Abu Alia",
+    "name_ar": "ابو عليا",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Ain Ghazal",
+    "name_ar": "عين غزال",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Safout",
+    "name_ar": "صافوط",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Mahis",
+    "name_ar": "ماحص",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Na’our",
+    "name_ar": "ناعور",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Al-Qusoor",
+    "name_ar": "القصور",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Abdoun",
+    "name_ar": "عبدون",
+    "governorate": "Amman"
+  },
+  {
+    "name_en": "Abdoun Al-Shamali",
+    "name_ar": "عبدون الشمالي",
+    "governorate": "Amman"
+  }
+]
