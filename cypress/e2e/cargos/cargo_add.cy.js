@@ -29,7 +29,7 @@ describe('إضافة الحمولات من خلال fixture', () => {
             });
 
             // تحميل الصورة من مجلد fixtures/images
-            const imagePath = `images/${cargo.image}`;
+            const imagePath = `images/crargos/${cargo.image}`;
             cy.get('input[type="file"]').attachFile(imagePath);
 
             // حفظ البيانات

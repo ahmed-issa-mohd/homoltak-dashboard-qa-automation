@@ -6,8 +6,7 @@
         "description_ar": "نقل الأدوية والمعدات الطبية",
         "status": "IS_ACTIVE",
         "category": [
-            "Close Transfer",
-            "Cold Transfer Vehicle"
+            "Close Transfer"
         ],
         "serial": "11",
         "image": "medicine_and_medical_equipment.png"
@@ -64,16 +63,6 @@
         "category": "Open Transfer",
         "serial": "5",
         "image": "scrap.png"
-    },
-    {
-        "name_en": "Liquid",
-        "name_ar": "السوائل",
-        "description_en": "Transport of liquid materials like water and fuel",
-        "description_ar": "نقل السوائل مثل الماء والوقود",
-        "status": "1",
-        "category": "Liquid Transfer",
-        "serial": "6",
-        "image": "liquid.png"
     },
     {
         "name_en": "Others",

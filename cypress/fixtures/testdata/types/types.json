@@ -1,0 +1,12 @@
+[
+    {
+        "name_en": "Pick Up",
+        "name_ar": "بيك أب - صندوق مغلق",
+        "description_en": "A suitable description in English for Pick Up.",
+        "description_ar": "وصف مناسب باللغة العربية للبيك أب.",
+        "status": "IS_ACTIVE",
+        "category": "Open Transfer",
+        "serial": "1",
+        "image": "Pick_Up.png"
+    }
+]
