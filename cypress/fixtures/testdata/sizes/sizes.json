@@ -1,0 +1,16 @@
+[
+    {
+        "name_en": "600KG",
+        "name_ar": "600KG",
+        "description_en": "Small closed Pick Up truck",
+        "description_ar": "بيك أب مغلق صغير الحجم",
+        "weight": 600,
+        "height": 120,
+        "width": 150,
+        "types": [
+            "Pick Up"
+        ],
+        "status": "IS_ACTIVE",
+        "serial": 1
+    }
+]
